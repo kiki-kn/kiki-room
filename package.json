@@ -2,6 +2,6 @@
   "name": "kiki-room",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'Build complete'"
+  "build": "mkdir -p dist && cp public/* dist/"
   }
 }
